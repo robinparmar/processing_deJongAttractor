@@ -1,9 +1,8 @@
 # de Jong Attractor
 
 Implements the Peter de Jong equations:
-
-x[n+1] = sin(a y[n]) - cos(b x[n])
-y[n+1] = sin(c x[n]) - cos(d y[n])
+* x[n+1] = sin(a y[n]) - cos(b x[n])
+* y[n+1] = sin(c x[n]) - cos(d y[n])
 
 These were original published in the article:
     Dewdney, A. K. 1987. "Computer recreations: probing the strange attractions
